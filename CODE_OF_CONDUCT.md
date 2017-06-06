@@ -56,7 +56,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version], and is further inspired by the codes contributed to the open science community by [Kirstie Whitaker](www.github.com/kirstiejane) and [Bastian Greshanke](www.github.com/gedankenstuecke), and inspired by [this blogpost]() by []().
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version], and is further inspired by the codes contributed to the open science community by [Kirstie Whitaker](www.github.com/kirstiejane) and [Bastian Greshanke](www.github.com/gedankenstuecke), and by [this blogpost](https://ironholds.org/not-about-image/) by [Oliver Keyes](www.twitter.com/kopshtik).
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
