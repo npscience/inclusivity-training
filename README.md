@@ -8,7 +8,7 @@ A repository of resources to form a curriculum for better understanding oppressi
 
 I plan to make each resource its own issue, to allow people to build up reactions, comments, learning notes, and conversation around each resource. Maybe this will evolve into individual issues being about specific learning points.
 
-I welcome you to get involved in the conversation. Before doing so, please refer to the [code of conduct](www.github.com/npscience/inclusivity-training/master/blob/code_of_conduct.md).
+I welcome you to get involved in the conversation. Before doing so, please refer to the [code of conduct](https://github.com/npscience/inclusivity-training/blob/master/CODE_OF_CONDUCT.md).
 
 In short:
 
