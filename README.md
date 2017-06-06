@@ -8,10 +8,12 @@ A repository of resources to form a curriculum for better understanding oppressi
 
 I plan to make each resource its own issue, to allow people to build up reactions, comments, learning notes, and conversation around each resource. Maybe this will evolve into individual issues being about specific learning points.
 
-I welcome you to get involved in the conversation.
+I welcome you to get involved in the conversation. Before doing so, please refer to the [code of conduct](www.github.com/npscience/inclusivity-training/master/blob/code_of_conduct.md).
+
+In short:
 
 **I particularly encourage anyone who has felt oppressed by major powers, however you identify, to take part in these conversations.** 
-In return, I will enforce the code of conduct in this repository. What that means practically is that I vouch to stand up and call out any oppressive actions or behaviours publicly. I will need the community's help. Please join me in enforcing this. 
+In return, I will enforce the code of conduct in this repository. What that means practically is that I vouch to stand up and call out any oppressive actions or behaviours publicly. I will need the community's help. Please join me in enforcing this (see issue #2). 
 
 **If you are a person in a position of power, your job here is to listen and to learn.** Please take that onboard, and think twice before speaking over someone, or dominating any conversation. Key point: we all strive for excellence here.
 
