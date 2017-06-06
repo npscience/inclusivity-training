@@ -19,7 +19,7 @@ We value the participation of every member of our community, with the primary re
 
 Examples of behavior that contributes to creating a positive environment include:
 
-* Using welcoming and inclusive language (for discussion, see #1)
+* Using welcoming and inclusive language (for discussion, see issue #1)
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
