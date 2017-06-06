@@ -11,8 +11,8 @@ We are committed to a **harassment-free environment** for all. We will not toler
 ## The responsibilities we each commit to
 
 We value the participation of every member of our community, with the primary responsibilities defined as per below:
-- **Members who have experienced oppression of any kind** - your primary responsibility is to engage effectively in order to educate and inform.
-- **Members who hold any position of power** - your primary responsibility here is to listen, learn and adjust your behaviours in daily life accordingly. 
+- **Members who hold any position of power** - your primary responsibility here is to engage, listen to others, learn and adjust your behaviours in daily life accordingly. 
+- **Members who have experienced oppression of any kind** - *if you feel you are in a position to do so*, please engage effectively in order to educate and inform. If you feel your contributions require recompensation in kind, please say so publicly or privately to Naomi (@npscience on gitter and twitter, or by [email](mailto:globalinclusivity.com)).
 - **All members** are responsible for moderating the conversation, including publicly standing up against any behaviours deemed to be oppressive, discriminatory or otherwise against the values enshrined in this code of conduct.
 
 ## Our Standards
